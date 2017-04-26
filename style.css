@@ -7,6 +7,22 @@ Template: magazine
 
 @import url("../magazine/style.css");
 
+#header {
+    margin-top: 10px;
+}
+
+.logo-wrap {
+    margin-bottom: 30px;
+}
+
+#header .widget_search {
+    margin-bottom: 35px;
+}
+
 .primary-navigation {
     background: #F64F4F;
+}
+
+.primary-navigation ul li a {
+    color: #fff;
 }
