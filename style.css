@@ -6,3 +6,7 @@ Template: magazine
 */
 
 @import url("../magazine/style.css");
+
+.primary-navigation {
+    background: #F64F4F;
+}
